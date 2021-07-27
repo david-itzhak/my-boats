@@ -27,7 +27,7 @@ function App() {
         // 'http://localhost:3001/boats',
         'http://localhost:8080/boats',
         boat);
-      debugger;
+      // debugger;
       setBoats([
         ...boats,
         {
